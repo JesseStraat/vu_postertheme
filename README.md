@@ -1,3 +1,5 @@
+This project does not yet have a README. Below follows the README of the original project, Gemini.
+
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/gemini/actions/workflows/ci.yml)
 
 Gemini is a modern LaTeX [beamerposter] theme.
